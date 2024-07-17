@@ -19,10 +19,10 @@ Working repo for educational TD-DFT material.
 
 | Notebook | Description | Colab Link |
 | -------- | ----------- | ---------- |
-| Data     | Data        | Data       |
-| Data     | Data        | Data       |
-| Data     | Data        | Data       |
-| Data     | Data        | Data       |
+| 1--Data Analytics     | Data        | Data       |
+| 2--Data Analytics     | Data        | Data       |
+| 3--Data Analytics     | Data        | Data       |
+| 4--Data Analytics     | Data        | Data       |
 
 ## Contributing
 Data Analytics
