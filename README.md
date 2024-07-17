@@ -19,14 +19,11 @@ Working repo for educational TD-DFT material.
 
 | Notebook | Description | Colab Link |
 | -------- | ----------- | ---------- |
-| 1--Data Analytics     | Data        | Data       |
+| 1--Data Analytics     | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
 | 2--Data Analytics     | Data        | Data       |
 | 3--Data Analytics     | Data        | Data       |
 | 4--Data Analytics     | Data        | Data       |
 
-## Contributing
-Data Analytics
-
-## Testing
+## Links
 Data Analytics
 
