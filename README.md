@@ -17,12 +17,12 @@ Working repo for educational TD-DFT material.
 
 ## Notebooks
 
-| Lesson | Description | Colab Link |
-| ------ | ----------- | ---------- |
-| Data   | Data        | Data       |
-| Data   | Data        | Data       |
-| Data   | Data        | Data       |
-| Data   | Data        | Data       |
+| Notebook | Description | Colab Link |
+| -------- | ----------- | ---------- |
+| Data     | Data        | Data       |
+| Data     | Data        | Data       |
+| Data     | Data        | Data       |
+| Data     | Data        | Data       |
 
 ## Contributing
 Data Analytics
