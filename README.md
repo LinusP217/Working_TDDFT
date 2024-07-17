@@ -20,6 +20,9 @@ Working repo for educational TD-DFT material.
 | Lesson | Description | Colab Link |
 | ------ | ----------- | ---------- |
 | Data   | Data        | Data       |
+| Data   | Data        | Data       |
+| Data   | Data        | Data       |
+| Data   | Data        | Data       |
 
 ## Contributing
 Data Analytics
