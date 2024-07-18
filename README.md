@@ -20,37 +20,40 @@
 
 ---
 
-> `Density functional theory is one of the greatest free lunches ever. It’s a mysterious way to bypass solving the Schrödinger equation directly, making it relatively inexpensive to solve electronic structure problems, but requiring an uncontrolled approximation.'
+> Density functional theory is one of the greatest free lunches ever. It’s a mysterious way to bypass solving the Schrödinger equation directly, making it relatively inexpensive to solve electronic structure problems, but requiring an uncontrolled approximation.
 >
-> \- [**Kieron Burke**,](https://www.chemistryviews.org/details/ezine/10661444/Speeding_Up_DFT_Calculations_with_Machine_Learning/), UCI
+> \- [**Kieron Burke**](https://www.chemistryviews.org/details/ezine/10661444/Speeding_Up_DFT_Calculations_with_Machine_Learning/), UCI
 
 ---
 
 ## To do 
- - [ ] Data Analytics
- - [ ] Data Analytics
- - [ ] Data Analytics
- - [ ] Data Analytics
- - [ ] Data Analytics
- - [ ] Data Analytics
- - [ ] Data Analytics
+ - [x] Start boiler-plate repo
+ - [ ] Develop GUI widget tools with 1D PIB (Jacob)
+ - [ ] code up coupling matrix for ^^ (Jacob)
+ - [ ] SymPy implementation + testing (Dayana)
+ - [ ] Runge-Gross Theorem explanation (Evan)
+ - [ ] conceptual description of Casida's eq'n (Evan)
 
 
 ## 🪟 Overview
 
-The Google Colaboratory (Colab) represents a highly accessible, scalable, and reproducible computational environment for researchers and educators alike. A substantial, and growing, body of Colab tutorials now exist for advanced topics in machine learning, molecular dynamics, electronic structure, and more. Building on our previous work with pedagogic content on ground-state density functional theory (DFT), we present here a collection of Colab tutorials addressing what is the most popular method for describing electronic excited states, namely time-dependent (TD) DFT. Foundational concepts like the Runge-Gross theorem to more practical considerations relating to keywords used in commercial TD-DFT software are explored with interactive visualizations. Our approach relies on a simplified particle-in-a-box model system that allows for simplified integrals and matrix operations, yet preserves the fundamental essence of TD-DFT. Developed by the [Zuehlsdorff Group](https://timzuehlsdorff.com/) at Oregon State University 🌳.
+This repository contains learning material on time-dependent density-functional theory (TDDFT)  accesible through the Google Colaboratory (Colab). TDDFT is a widely used quantum chemistry method, but, like its ground-state counterpart, is oftentimes a black box method to the users of commerical software packages. we present here a collection of Colab tutorials addressing what is the most popular method for describing electronic excited states
 
-Outlined below is
+
+Building on our previous work with pedagogic content on ground-state density functional theory (DFT), , namely time-dependent (TD)-DFT. Foundational concepts like the Runge-Gross theorem to more practical considerations relating to keywords used in commercial TD-DFT software are explored with interactive visualizations. Our approach relies on a simplified particle-in-a-box model system that allows for simplified integrals and matrix operations, yet preserves the fundamental essence of TD-DFT. Some knowledge of ground state DFT is assumed. Feel free to explore the content through the links below.
+
+This is a project in development by the [Zuehlsdorff Group](https://timzuehlsdorff.com/) at Oregon State University 🌳.
+
 
 ## 🗒️ Computational Notebooks
 
 | Notebook | Description | Colab Link |
 | -------- | ----------- | ---------- |
-| 1--🏗️ TD-DFT Foundations  | Data       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
-| 2--🍳 Ingridients of TD-DFT | practical components of         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
-| 3--👨 Casida's Approach | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
-| 4-- Real time  | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
-| 5--📈 Making Spectra     | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook5.ipynb)       |
+| 1--🏗️ TD-DFT Foundations  | Brief outline of the history and mathematical justification of TD-DFT.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
+| 2--🍳 Ingridients of TD-DFT | Essential components of presented through a 1D PIB system. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
+| 3--👨 Casida's Approach | Delves into the machinery of Linear-response TD-DFT. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
+| 4--⌛ Real time  | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
+| 5--📈 Making Spectra | Taking the energies and oscillator strengths to generate spectra. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook5.ipynb)       |
 
 ### Interactive
 
@@ -71,7 +74,6 @@ Data Analytics
  - [Changelog]()
  - [Contributing](https://github.com/LinusP217/Working_TDDFT/blob/main/CONTRIBUTING.md)
  - [Authors](https://github.com/LinusP217/Working_TDDFT/blob/main/AUTHORS)
- - [Acknowledgements]()
 
 ---
 
