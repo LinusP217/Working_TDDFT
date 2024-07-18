@@ -26,7 +26,8 @@
 
 ---
 
-## Overview
+## 🪟 Overview
+
 The Google Colaboratory (Colab) represents a highly accessible, scalable, and reproducible computational environment for researchers and educators alike. A substantial, and growing, body of Colab tutorials now exist for advanced topics in machine learning, molecular dynamics, electronic structure, and more. Building on our previous work with pedagogic content on ground-state density functional theory (DFT), we present here a collection of Colab tutorials addressing what is the most popular method for describing electronic excited states, namely time-dependent (TD) DFT. Foundational concepts like the Runge-Gross theorem to more practical considerations relating to keywords used in commercial TD-DFT software are explored with interactive visualizations. Our approach relies on a simplified particle-in-a-box model system that allows for simplified integrals and matrix operations, yet preserves the fundamental essence of TD-DFT. Developed by the [Zuehlsdorff Group](https://timzuehlsdorff.com/) at Oregon State University 🌳.
 
 ## 🗒️ Computational Notebooks
@@ -35,8 +36,10 @@ The Google Colaboratory (Colab) represents a highly accessible, scalable, and re
 | -------- | ----------- | ---------- |
 | 1--🏗️ TD-DFT Foundations  | Data       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
 | 2--🍳 Ingridients of TD-DFT | practical components of         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
-| 3--  Casida's Approach | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
+| 3--👨 Casida's Approach | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
 | 4--📈 Making Spectra     | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
+
+Gif here showing interactive component of the notebooks.
 
 ## Links
  - [Further Resources List]()
