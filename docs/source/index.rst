@@ -18,8 +18,9 @@ Content
    :maxdepth: 2
    :caption: Contents:
 
+   GitHub Repo Link <https://github.com/LinusP217/Working_TDDFT>
    other_resources
-   GitHub Repo Link <https://github.com/tjz21/DFT_PIB_Code>
+   changelog
 
 * :ref:`genindex`
 * :ref:`modindex`

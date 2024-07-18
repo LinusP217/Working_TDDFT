@@ -49,18 +49,27 @@ Outlined below is
 | 1--🏗️ TD-DFT Foundations  | Data       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
 | 2--🍳 Ingridients of TD-DFT | practical components of         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
 | 3--👨 Casida's Approach | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
-| 4--📈 Making Spectra     | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
+| 4-- Real time  | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
+| 5--📈 Making Spectra     | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook5.ipynb)       |
 
 ### Interactive
 
-Gif 1
+<div style="text-align:center;">
+  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
+</div>
 
-Gif 2
+Data Analytics
+
+<div style="text-align:center;">
+  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
+</div>
+
+Data Analytics
 
 ## Links
  - [Further Resources List]()
  - [Changelog]()
- - [Contributing]()
+ - [Contributing](https://github.com/LinusP217/Working_TDDFT/blob/main/CONTRIBUTING.md)
  - [Authors](https://github.com/LinusP217/Working_TDDFT/blob/main/AUTHORS)
  - [Acknowledgements]()
 
