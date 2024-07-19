@@ -11,7 +11,7 @@
                        | |                                
                        |_|                                
  
- An OER for learning time-dependent density-fuctional theory.
+ An OER for learning time-dependent density-functional theory.
 ```
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
@@ -34,40 +34,31 @@
  - [ ] Runge-Gross Theorem explanation (Evan)
  - [ ] conceptual description of Casida's eq'n (Evan)
 
-
 ## 🪟 Overview
 
-This repository contains learning material on time-dependent density-functional theory (TDDFT)  accesible through the Google Colaboratory (Colab). TDDFT is a widely used quantum chemistry method, but, like its ground-state counterpart, is oftentimes a black box method to the users of commerical software packages. we present here a collection of Colab tutorials addressing what is the most popular method for describing electronic excited states
+This repository contains learning material on time-dependent density-functional theory (TDDFT)  accesible through the Google Colaboratory (Colab). TDDFT is a widely used method in quantum chemistry, but, like its ground-state counterpart, is oftentimes a black box to the users of commerical software packages, e.g. VASP and Gaussian. This work helps to fix that. Intended for both researchers and students that want to develop a deeper understanding, we present a collection of Colab tutorials that progressively explains the fundamental concepts, from the Runge-Gross theorem to XC kernels to Casida's equation. Our approach relies on a one-dimensional particle-in-a-box model system that&mdash;in contrast to the complexity present in plane-wave and molecular codes&mdash;allows for simplified integrals and matrix operations. Basic knowledge of quantum mechanics and ground state DFT is assumed throughout. Feel free to explore the content through the links below.
 
-
-Building on our previous work with pedagogic content on ground-state density functional theory (DFT), , namely time-dependent (TD)-DFT. Foundational concepts like the Runge-Gross theorem to more practical considerations relating to keywords used in commercial TD-DFT software are explored with interactive visualizations. Our approach relies on a simplified particle-in-a-box model system that allows for simplified integrals and matrix operations, yet preserves the fundamental essence of TD-DFT. Some knowledge of ground state DFT is assumed. Feel free to explore the content through the links below.
-
-This is a project in development by the [Zuehlsdorff Group](https://timzuehlsdorff.com/) at Oregon State University 🌳.
-
+This is a project in active development by the [Zuehlsdorff Group](https://timzuehlsdorff.com/) at Oregon State University 🌳 and is an extension of previous efforts with [pedagogic DFT content](https://github.com/tjz21/DFT_PIB_Code).
 
 ## 🗒️ Computational Notebooks
 
+### Table of Contents
+
 | Notebook | Description | Colab Link |
 | -------- | ----------- | ---------- |
-| 1--🏗️ TD-DFT Foundations  | Brief outline of the history and mathematical justification of TD-DFT.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
-| 2--🍳 Ingridients of TD-DFT | Essential components of presented through a 1D PIB system. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
-| 3--👨 Casida's Approach | Delves into the machinery of Linear-response TD-DFT. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
-| 4--⌛ Real time  | Data        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
-| 5--📈 Making Spectra | Taking the energies and oscillator strengths to generate spectra. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook5.ipynb)       |
+| 1&mdash;🏗️ TD-DFT Foundations  | Brief outline of the history and mathematical justification of TD-DFT.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
+| 2&mdash;🍳 Ingredients of TD-DFT | Essential components of presented through a 1D PIB system. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
+| 3&mdash;👨 Casida's Approach | Delves into the machinery of linear-response TD-DFT. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
+| 4&mdash;⌛ Real time  | Alternative non-perturbative approach using time propagation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
+| 5&mdash;📈 Making Spectra | Taking the energies and oscillator strengths to generate spectra. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook5.ipynb)       |
 
-### Interactive
+### Interactivity
 
-<div style="text-align:center;">
-  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
-</div>
-
-Data Analytics
+Content blocks with GUI widgets contain interactive visualization tools. They become active after the cell is executed.
 
 <div style="text-align:center;">
   <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
 </div>
-
-Data Analytics
 
 ## Links
  - [Further Resources List]()
