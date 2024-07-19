@@ -27,16 +27,16 @@
 ---
 
 ## To do 
- - [x] Start boiler-plate repo
+ - [x] Start boilerplate repo
  - [ ] Develop GUI widget tools with 1D PIB (Jacob)
- - [ ] code up coupling matrix for ^^ (Jacob)
+ - [ ] Code up coupling matrix for ^^ (Jacob)
  - [ ] SymPy implementation + testing (Dayana)
  - [ ] Runge-Gross Theorem explanation (Evan)
  - [ ] conceptual description of Casida's eq'n (Evan)
 
 ## 🪟 Overview
 
-This repository contains learning material on time-dependent density-functional theory (TDDFT)  accesible through the Google Colaboratory (Colab). TDDFT is a widely used method in quantum chemistry, but, like its ground-state counterpart, is oftentimes a black box to the users of commerical software packages, e.g. VASP and Gaussian. This work helps to fix that. Intended for both researchers and students that want to develop a deeper understanding, we present a collection of Colab tutorials that progressively explains the fundamental concepts, from the Runge-Gross theorem to XC kernels to Casida's equation. Our approach relies on a one-dimensional particle-in-a-box model system that&mdash;in contrast to the complexity present in plane-wave and molecular codes&mdash;allows for simplified integrals and matrix operations. Basic knowledge of quantum mechanics and ground state DFT is assumed throughout. Feel free to explore the content through the links below.
+This repository contains learning material on time-dependent density-functional theory (TDDFT)  accessible through the Google Colaboratory (Colab). TDDFT is a widely used method in quantum chemistry, but, like its ground state counterpart, is often a black box to the users of commercial software packages, e.g., VASP and Gaussian. This work helps to fix that. Intended for both researchers and students who want to develop a deeper understanding, we present a collection of Colab tutorials that progressively explains the fundamental concepts, from the Runge-Gross theorem to XC kernels to Casida's equation. Our approach relies on a one-dimensional particle-in-a-box model system that&mdash;in contrast to the complexity present in plane-wave and molecular codes&mdash;allows for simplified integrals and matrix operations. Basic knowledge of quantum mechanics and ground state DFT is assumed throughout. Feel free to explore the content through the links below.
 
 This is a project in active development by the [Zuehlsdorff Group](https://timzuehlsdorff.com/) at Oregon State University 🌳 and is an extension of previous efforts with [pedagogic DFT content](https://github.com/tjz21/DFT_PIB_Code).
 
@@ -47,14 +47,14 @@ This is a project in active development by the [Zuehlsdorff Group](https://timzu
 | Notebook | Description | Colab Link |
 | -------- | ----------- | ---------- |
 | 1&mdash;🏗️ TD-DFT Foundations  | Brief outline of the history and mathematical justification of TD-DFT.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook1.ipynb)       |
-| 2&mdash;🍳 Ingredients of TD-DFT | Essential components of presented through a 1D PIB system. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
-| 3&mdash;👨 Casida's Approach | Delves into the machinery of linear-response TD-DFT. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
-| 4&mdash;⌛ Real time  | Alternative non-perturbative approach using time propagation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
+| 2&mdash;🍳 Ingredients of TD-DFT | Essential components of TD-DFT presented through a 1D PIB system. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook2.ipynb)       |
+| 3&mdash;👨 Casida's Approach | Delves into the machinery of linear-response TD-DFT, used in quantum chemistry codes. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook3.ipynb)       |
+| 4&mdash;⌛ Real-time  | Alternative nonperturbative approach using time propagation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook4.ipynb)       |
 | 5&mdash;📈 Making Spectra | Taking the energies and oscillator strengths to generate spectra. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinusP217/Working_TDDFT/blob/main/notebooks/Notebook5.ipynb)       |
 
 ### Interactivity
 
-Content blocks with GUI widgets contain interactive visualization tools. They become active after the cell is executed.
+Content blocks with GUI widgets contain interactive visualization tools. They become active after the cell is executed:
 
 <div style="text-align:center;">
   <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
