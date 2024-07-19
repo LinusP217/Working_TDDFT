@@ -5,14 +5,11 @@
 
 tiempoDFT Documentation
 =======================
-Data Analytics
+Welcome to the documentation site for tiempoDFT. 
 
 Information
 -----------
 Data Analytics
-
-Content
-=======
 
 .. toctree::
    :maxdepth: 2

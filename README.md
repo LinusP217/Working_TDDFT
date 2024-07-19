@@ -14,6 +14,7 @@
  An OER for learning time-dependent density-functional theory.
 ```
 
+[![Documentation Status](https://readthedocs.org/projects/working-tddft/badge/?version=latest)](https://working-tddft.readthedocs.io/en/latest/?badge=latest)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -22,11 +23,11 @@
 
 > Density functional theory is one of the greatest free lunches ever. It’s a mysterious way to bypass solving the Schrödinger equation directly, making it relatively inexpensive to solve electronic structure problems, but requiring an uncontrolled approximation.
 >
-> \- [**Kieron Burke**](https://www.chemistryviews.org/details/ezine/10661444/Speeding_Up_DFT_Calculations_with_Machine_Learning/), UCI
+> \- Prof. [**Kieron Burke**](https://www.chemistryviews.org/details/ezine/10661444/Speeding_Up_DFT_Calculations_with_Machine_Learning/), UCI
 
 ---
 
-## To do 
+## 📋 To do 
  - [x] Start boilerplate repo
  - [ ] Develop GUI widget tools with 1D PIB (Jacob)
  - [ ] Code up coupling matrix for ^^ (Jacob)
@@ -61,8 +62,8 @@ Content blocks with GUI widgets contain interactive visualization tools. They be
 </div>
 
 ## Links
- - [Further Resources List]()
- - [Changelog]()
+ - [Further Resources List](https://working-tddft.readthedocs.io/en/latest/other_resources.html)
+ - [Changelog](https://working-tddft.readthedocs.io/en/latest/changelog.html)
  - [Contributing](https://github.com/LinusP217/Working_TDDFT/blob/main/CONTRIBUTING.md)
  - [Authors](https://github.com/LinusP217/Working_TDDFT/blob/main/AUTHORS)
 
