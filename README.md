@@ -11,7 +11,7 @@
                        | |                                
                        |_|                                
  
- An OER for learning time-dependent density-functional theory.
+ An OER for time-dependent density-functional theory.
 ```
 
 [![Documentation Status](https://readthedocs.org/projects/working-tddft/badge/?version=latest)](https://working-tddft.readthedocs.io/en/latest/?badge=latest)
@@ -23,7 +23,7 @@
 
 > Density functional theory is one of the greatest free lunches ever. It’s a mysterious way to bypass solving the Schrödinger equation directly, making it relatively inexpensive to solve electronic structure problems, but requiring an uncontrolled approximation.
 >
-> \- Prof. [**Kieron Burke**](https://www.chemistryviews.org/details/ezine/10661444/Speeding_Up_DFT_Calculations_with_Machine_Learning/), UCI
+> \- Prof. [**Kieron Burke**](https://doi.org/10.1002/chemv.201700082), UCI
 
 ---
 
